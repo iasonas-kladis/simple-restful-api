@@ -1,7 +1,7 @@
 Author: Iasonas Kladis
 
 Instructions
-1. Clone the repository: git clone https://csd2967@bitbucket.org/csd2967/simple-restful-api.git
+1. Clone the repository: git clone https://github.com/iasonas-kladis/simple-restful-api.git
 
 2. Import the maven project to the IDE of your choice, or create a new simple Maven project and copy the
    source code and the pom.xml file in it. I used the Eclipse IDE.
